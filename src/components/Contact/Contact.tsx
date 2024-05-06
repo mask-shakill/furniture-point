@@ -45,7 +45,7 @@ const Contact = () => {
         </div>
       </section>
 
-      <section className="ml-[99px] h-[320px]  w-[1000px]">
+      <section className="ml-[99px] h-[220px]  ">
         <h1 className="font-bold text-2xl text-[#35736E]">FurniZone</h1>
         <div className="grid grid-cols-8 gap-16">
           <div className="col-span-3">
