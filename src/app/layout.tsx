@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className=" ">
-        <div className="w-full h-[42.125rem] bg-[#35736E]">
+        <div className="w-full h-[42.125rem] bg-[#35736E] ">
           <Navbar />
           <main>{children}</main>
         </div>

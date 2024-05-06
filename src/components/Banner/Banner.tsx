@@ -3,7 +3,7 @@ import React from "react";
 import sofaImage from "@/../public/images/banner_sofa.png";
 const Banner = () => {
   return (
-    <div className="flex pl-[6.187rem] pr-[4.81rem] text-white">
+    <div className="flex pl-[6.187rem] pr-[4.81rem] text-white ">
       <div className="w-[542px] h-[150px] pt-[200px]">
         <h1 className="text-[45px] font-semibold">
           "Transform your <br /> space with elegance."
